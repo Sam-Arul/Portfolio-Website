@@ -4,9 +4,15 @@ nav{
     margin-right: 50px;
     padding-top: 15px;
     padding-bottom: 15px;
+    box-shadow: 0 4px 8px 0 #2961ba, 0 6px 20px 0  #2961ba;
 }
 
 
 a:hover{
     color: #0275d8;
+}
+
+#image{
+    height: 25px;
+    width: 25px;
 }

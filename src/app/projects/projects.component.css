@@ -1,5 +1,10 @@
 div{
-    margin:10px;
+    padding:50px;
     margin-left: 200px;
     margin-bottom: 50px;
+}
+
+#cardDesign{
+    box-shadow: 0 4px 8px 0 #2961ba, 0 6px 20px 0  #2961ba;
+    color: #2961ba;
 }
